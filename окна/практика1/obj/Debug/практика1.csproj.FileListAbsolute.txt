@@ -1,0 +1,10 @@
+C:\Users\rafan\source\repos\окна\практика1\bin\Debug\практика1.exe.config
+C:\Users\rafan\source\repos\окна\практика1\bin\Debug\практика1.exe
+C:\Users\rafan\source\repos\окна\практика1\bin\Debug\практика1.pdb
+C:\Users\rafan\source\repos\окна\практика1\obj\Debug\практика1.csprojAssemblyReference.cache
+C:\Users\rafan\source\repos\окна\практика1\obj\Debug\практика1.Form1.resources
+C:\Users\rafan\source\repos\окна\практика1\obj\Debug\практика1.Properties.Resources.resources
+C:\Users\rafan\source\repos\окна\практика1\obj\Debug\практика1.csproj.GenerateResource.cache
+C:\Users\rafan\source\repos\окна\практика1\obj\Debug\практика1.csproj.CoreCompileInputs.cache
+C:\Users\rafan\source\repos\окна\практика1\obj\Debug\практика1.exe
+C:\Users\rafan\source\repos\окна\практика1\obj\Debug\практика1.pdb
